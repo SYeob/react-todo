@@ -34,7 +34,7 @@ form > input {
     outline: none;
     border: none;
     border-bottom: 1px solid #f67280;
-
+    text-align: center;
     padding: 0.5rem;
     font-size: 1.125rem;
     line-height: 1.5;
