@@ -2,7 +2,7 @@
   margin-left: auto;
   margin-right: auto;
   border-radius: 10px;
-  box-shadow: 1px 2px 5px 1px #f67280;
+  box-shadow: 1px 2px 5px 1px #634491;
   padding: 1rem;
   display: flex;
   align-items: center;
@@ -21,7 +21,7 @@
 
 .content svg {
   font-size: 1.5rem;
-  color: #f67280;
+  color: #976ada;
 }
 
 .content .text {
@@ -30,7 +30,7 @@
 }
 
 .content.checked .text {
-    color:#6c567b;
+    color:rgb(96, 96, 96);
     text-decoration: line-through;
     cursor: pointer;
     opacity: 0.6;
